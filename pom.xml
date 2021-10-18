@@ -49,6 +49,9 @@
         the script continues to work
         -->
 
+        <sonar.organization>sonar-demo-bbte</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+
         <product.rhsso.version>7.5.0.GA</product.rhsso.version>
 
         <product.build-time>${timestamp}</product.build-time>
